@@ -1,0 +1,7 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudos\MultiplicarMatiz\MultiplicarMatiz\bin\Debug\MultiplicarMatiz.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudos\MultiplicarMatiz\MultiplicarMatiz\bin\Debug\MultiplicarMatiz.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudos\MultiplicarMatiz\MultiplicarMatiz\bin\Debug\MultiplicarMatiz.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudos\MultiplicarMatiz\MultiplicarMatiz\obj\Debug\MultiplicarMatiz.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudos\MultiplicarMatiz\MultiplicarMatiz\obj\Debug\MultiplicarMatiz.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudos\MultiplicarMatiz\MultiplicarMatiz\obj\Debug\MultiplicarMatiz.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudos\MultiplicarMatiz\MultiplicarMatiz\obj\Debug\MultiplicarMatiz.pdb
